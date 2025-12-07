@@ -1,0 +1,21 @@
+2025-11-12T19:21:33.721+05:30  INFO 1272 --- [webapp-1] [RMI TCP Connection(674)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-11-12T19:21:34.019+05:30  INFO 1272 --- [webapp-1] [RMI TCP Connection(674)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-12T19:21:34.112+05:30  INFO 1272 --- [webapp-1] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-11-12T19:21:51.327+05:30  INFO 6740 --- [webapp-1] [restartedMain] com.web.Webapp1Application               : Starting Webapp1Application using Java 21.0.8 with PID 6740 (D:\jrtp  module\webapp-1\target\classes started by user in D:\jrtp  module\webapp-1)
+2025-11-12T19:21:51.329+05:30  INFO 6740 --- [webapp-1] [restartedMain] com.web.Webapp1Application               : No active profile set, falling back to 1 default profile: "default"
+2025-11-12T19:21:51.382+05:30  INFO 6740 --- [webapp-1] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-11-12T19:21:51.383+05:30  INFO 6740 --- [webapp-1] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-11-12T19:21:52.151+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-11-12T19:21:52.164+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-12T19:21:52.165+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.48]
+2025-11-12T19:21:52.212+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-11-12T19:21:52.213+05:30  INFO 6740 --- [webapp-1] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 830 ms
+2025-11-12T19:21:52.547+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-11-12T19:21:52.596+05:30  INFO 6740 --- [webapp-1] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-11-12T19:21:52.605+05:30  INFO 6740 --- [webapp-1] [restartedMain] com.web.Webapp1Application               : Started Webapp1Application in 1.689 seconds (process running for 4.474)
+2025-11-12T19:21:59.524+05:30  INFO 6740 --- [webapp-1] [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-11-12T19:21:59.526+05:30  INFO 6740 --- [webapp-1] [RMI TCP Connection(8)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-12T19:21:59.546+05:30  INFO 6740 --- [webapp-1] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-11-12T19:23:54.255+05:30  INFO 24280 --- [webapp-1] [main] com.web.Webapp1ApplicationTests          : Starting Webapp1ApplicationTests using Java 21.0.7 with PID 24280 (started by user in D:\jrtp  module\webapp-1)
+2025-11-12T19:23:54.259+05:30  INFO 24280 --- [webapp-1] [main] com.web.Webapp1ApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2025-11-12T19:23:55.647+05:30  INFO 24280 --- [webapp-1] [main] com.web.Webapp1ApplicationTests          : Started Webapp1ApplicationTests in 1.792 seconds (process running for 3.36)
